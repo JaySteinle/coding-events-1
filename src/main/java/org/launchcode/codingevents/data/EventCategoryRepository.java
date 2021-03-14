@@ -8,6 +8,6 @@ import org.springframework.stereotype.Repository;
  * Created by Chris Bay
  */
 @Repository
-public interface EventCategoryRepository extends CrudRepository<EventCategory, Integer> {
+public interface EventCategoryRepository extends CrudRepository< EventCategory, Integer > {
 
 }
